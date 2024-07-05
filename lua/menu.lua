@@ -3,7 +3,7 @@ local frame
 local currentPage = 1
 local animationsPerPage = 12
 local totalPages = math.ceil(#animations / animationsPerPage)
-local scaleFactor = 0.1
+local scaleFactor = 1
 local posX = 0.5
 local posY = 0.5
 
