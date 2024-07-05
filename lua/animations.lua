@@ -1,0 +1,15 @@
+animations = {
+    { Sequence = "la_customman_choji_etc_win_type01_start retarget", Weight = 1, Name = "Choji Win Type 1" },
+    { Sequence = "la_customman_shikamaru_etc_win_type01_start retarget", Weight = 1, Name = "Shikamaru Win Type 1" },
+    { Sequence = "la_customman_etc_emotion_bee_fistbump_start retarget", Weight = 1, Name = "Bee Fistbump" },
+    { Sequence = "la_customman_boruto_etc_team_fin retarget", Weight = 1, Name = "Boruto Team Finish" },
+    { Sequence = "la_customman_guy_etc_win_type01_start retarget", Weight = 1, Name = "Guy Win Type 1" },
+    { Sequence = "la_customman_jiraiya_etc_team_fin retarget", Weight = 1, Name = "Jiraiya Team Finish" },
+    { Sequence = "la_customman_guy_etc_win_type02_start retarget", Weight = 1, Name = "Guy Win Type 2" },
+    { Sequence = "la_customman_etc_emotion_hot_loop retarget", Weight = 1, Name = "Hot Loop" },
+    { Sequence = "la_customman_etc_emotion_pose_type14 retarget", Weight = 1, Name = "Pose Type 14" },
+    { Sequence = "la_customman_etc_emotion_baseball_type01_end retarget", Weight = 1, Name = "Baseball Type 01 End" },
+    { Sequence = "la_customman_etc_emotion_itachi_sitting_start retarget", Weight = 1, Name = "Itachi Sitting Start" },
+    { Sequence = "la_customman_etc_emotion_photosoot_type04_start retarget", Weight = 1, Name = "Photoshoot Type 04 Start" },
+    { Sequence = "la_customman_etc_emotion_photosoot_type03_start retarget", Weight = 1, Name = "Photoshoot Type 03 Start" },
+}
