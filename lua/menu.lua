@@ -3,9 +3,9 @@ local frame
 local currentPage = 1
 local animationsPerPage = 12
 local totalPages = math.ceil(#animations / animationsPerPage)
-local scaleFactor = 1
-local posX = 0.5
-local posY = 0.5
+local scaleFactor = 0.9 -- 1
+local posX = 0.15 -- 0.5
+local posY = 0.35 -- 0.5
 
 surface.CreateFont("KatanaFont", {
     font = "KATANA",
